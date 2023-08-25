@@ -25,7 +25,7 @@ git clone https://github.com/chiru001/Linux_bash_scripts.git
 <br>
 cd linux-scripts
 <br>
-chmod +x *.sh  # This makes sure all scripts are executable
+chmod 766 Ping_Alert_Mail.sh  # This makes sure all scripts are executable
 # Usage
 To use a script, navigate to the repository directory and execute it. Some scripts may require additional arguments or permissions.
 <br>
