@@ -15,14 +15,20 @@ This repository was initiated to provide Linux users with a set of scripts that 
 
 # Prerequisites
 Linux OS (Recommended: Ubuntu, CentOS, etc.)
+<br>
 A configured mail system (for scripts sending email alerts)
-Installation
+<br>
+# Installation
 To utilize the scripts from this repository:
-git clone https://github.com/yourusername/linux-scripts.git
+<br>
+git clone https://github.com/chiru001/Linux_bash_scripts.git
+<br>
 cd linux-scripts
+<br>
 chmod +x *.sh  # This makes sure all scripts are executable
 # Usage
 To use a script, navigate to the repository directory and execute it. Some scripts may require additional arguments or permissions.
+<br>
 
 ./ping_alert_email.sh
 # License
